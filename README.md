@@ -4,4 +4,4 @@ The Stopwatch is coded using C language and implemented using Atmega32 microcont
 It has three main features:
 1) Pause button
 2) Resume button
-3) reset button 
+3) Reset button 
