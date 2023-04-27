@@ -8,4 +8,3 @@ It has three main features:
 
 ![Capture](https://user-images.githubusercontent.com/101186125/235010851-f05f3806-c755-410c-ba66-92717c0b92a0.PNG)
 
-Proteus simulation.
