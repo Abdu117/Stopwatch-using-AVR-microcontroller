@@ -1,5 +1,6 @@
 ### Stopwatch-using-AVR-microcontroller
 The Stopwatch is coded using C language and implemented using Atmega32 microcontroller.
+It displays the time on 6 multiplexed seven segments.
 
 It has three main features:
 1) Pause button
